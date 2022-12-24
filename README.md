@@ -1,4 +1,4 @@
-# Certificate managment system
+# Certificate management system
 Certificate management is used to create student and employees certificate. This certificate management system is created in PHP with an MYSQL database. 
 This is a complete web application. You can easily install it on your server and create certificates for students and employees. 
 This certificate management system is an advanced certificate management system. Admin can register any students or employees and generate certificates easily. 
