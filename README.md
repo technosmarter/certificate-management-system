@@ -20,9 +20,14 @@ It will help you customize the certificate according to yourself.<br>
 <strong>Print Certificate –</strong> After generating the certificate, you can easily print it by the printer and make a hard copy also you can save it as a PDF.<br>
 # Installation  
 As we have mentioned above , this certificate system is created with simple installer . You can easily install it on your server with a single form. <br>
-1.	First of all, get certificate system from here . You can watch complete demo from there. Get certificate system and download zip file. <br>
+1.	First of all, get <a href="https://technosmarter.com/item/certificate-system-in-php-website">certificate system</a> from here . You can watch complete demo from there. Get certificate system and download zip file. <br>
 2.	Extract the zip file and move folder on your server . You can install it on local server or live server. <br>
 3.	Open URL on your browser. <br>
 4.	You will see an installation form . Fill up all details like host, database name , username and password . <br>
 5.	After that , create an admin user and that’t it . <br>
-6.	Now you can create certificates . You can contact for installation support or more . <br>
+6.	Now you can create certificates . You can  <a href="https://technosmarter.com">contact</a> for installation support or more . <br>
+ # Developer 
+ <a href="https://technosmarter.com">Techno Smarter </a>
+ # Certificate system in PHP website | PHP scripts
+ <a href="https://technosmarter.com/item/certificate-system-in-php-website">Certificate system in PHP website | PHP scripts</a>
+ 
